@@ -1,5 +1,5 @@
 <?php
-namespace light\widgets;
+namespace Light\widgets;
 
 use yii\web\AssetBundle;
 
