@@ -1,5 +1,6 @@
 {
     "name": "light/yii2-widget-sweet-alert",
+    "keywords": ["yii2", "widget", "sweet-alert"],
     "description": "Yii2 widget for sweet-alert",
     "license": "MIT",
     "authors": [

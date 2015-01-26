@@ -1,11 +1,11 @@
 <?php
-namespace Light\widgets;
+namespace light\widgets;
 
 use yii\web\AssetBundle;
 
 class SweetAlertAsset extends AssetBundle
 {
-	public $sourcePath = '/assets';
+	public $sourcePath = '@vendor/light/yii2-widget-sweet-alert/assets';
     // public $basePath = '@webroot';
     // public $baseUrl = '@web';
     public $css = [
